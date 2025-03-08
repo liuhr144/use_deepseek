@@ -1,0 +1,2 @@
+# use_deepseek
+一个支持用户自定义对话和知识库的人工智能科研助理，基于deepseek官方api
